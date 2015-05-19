@@ -1,0 +1,13 @@
+./manage.py runserver
+Performing system checks...
+
+System check identified no issues (0 silenced).
+May 19, 2015 - 08:51:34
+Django version 1.8.1, using settings 'project.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Method is: GET
+Method is: PUT
+Method is: PATCH
+Method is: PUT
+[19/May/2015 08:51:40]"GET /things/1/ HTTP/1.1" 200 11679
